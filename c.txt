@@ -1,7 +1,7 @@
 Noi dung C
 
-<<<<<<< HEAD
 Cap nhat boi Centos
-=======
 Cap nhat boi window
->>>>>>> origin/master
+
+
+2021
